@@ -7,6 +7,7 @@ body{
     align-items: center;
     height: 100vh;
     margin: 0;
+    background-image: url('../asset/gbrX3.jpeg');
 }
 
 .button {
@@ -84,6 +85,7 @@ body{
     text-align: center;
     max-width: 500px;
     width: 100%;
+    background-image: url('../asset/gbrX4.jpeg');
 }
 
 h3{
@@ -113,7 +115,7 @@ input{
 }
 
 .temp-container{
-    display: flex;
+    display: inline-block;
     justify-content: center;
     margin: auto;
 }
